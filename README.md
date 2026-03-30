@@ -1,3 +1,3 @@
 # Resilience-in-IPPS
-..
-aa
+
+This repository provides the search and screening code developed for a literature review on resilience in Integrated Process Planning and Scheduling (IPPS) with the paper title From Disruption to Decision: Toward Resilient Integrated Process Planning and Scheduling, along with the final dataset of analysed papers. It supports the initial literature identification process and documents the methodological basis used to examine how resilience is reflected and operationalised in IPPS studies. The repository is shared to improve transparency and reproducibility of the review process.
